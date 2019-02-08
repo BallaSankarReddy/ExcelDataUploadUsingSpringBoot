@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExcelDataUploadApplication {
 
 	public static void main(String[] args) {
-		//SpringApplication.run(ExcelDataUploadApplication.class, args);
+		
+		SpringApplication.run(ExcelDataUploadApplication.class, args);
 	}
 
 }
